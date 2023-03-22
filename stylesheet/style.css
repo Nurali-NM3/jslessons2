@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#btn-pluse{
+    background-color: red;
+    padding: 10px;
+}
+.btn2{
+    background-color: blue;
+    padding: 10px;
+}
